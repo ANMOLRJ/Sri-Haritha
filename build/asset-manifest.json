@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d8602cb.css",
+    "main.js": "/static/js/main.61d10d6f.js",
+    "static/js/787.b670d720.chunk.js": "/static/js/787.b670d720.chunk.js",
+    "static/media/anhd4.jpg": "/static/media/anhd4.824f951a1212af339327.jpg",
+    "static/media/build.png": "/static/media/build.b830fb48045e62ee89be.png",
+    "static/media/babu3.jpg": "/static/media/babu3.941442969290cb41e75f.jpg",
+    "static/media/babu2.jpg": "/static/media/babu2.3047e4e19854d573a40d.jpg",
+    "static/media/anvesh.jpg": "/static/media/anvesh.c16288a62e5d20396a24.jpg",
+    "static/media/babu4.jpg": "/static/media/babu4.5cdf16c9379091f6e9aa.jpg",
+    "static/media/babu1.jpg": "/static/media/babu1.f95f36aa8991170a92e9.jpg",
+    "static/media/full logo.svg": "/static/media/full logo.6957dafdf2fbf5df96d959320bbd46fe.svg",
+    "static/media/anhd3.jpg": "/static/media/anhd3.f2a1ecedf7b79ba98acb.jpg",
+    "static/media/anhd5.jpg": "/static/media/anhd5.0ee1b7437d8848798eb9.jpg",
+    "static/media/anhd2.jpg": "/static/media/anhd2.13677b30b0e347476f08.jpg",
+    "static/media/newtwitter.png": "/static/media/newtwitter.b413b75b86f226240110.png",
+    "static/media/doctor1.jpg": "/static/media/doctor1.8d9a6da68d01885769d2.jpg",
+    "static/media/newwhatsapp.png": "/static/media/newwhatsapp.7193ebbaff003f3946b0.png",
+    "static/media/Done.png": "/static/media/Done.d4a87fc2ea783d6554c8.png",
+    "index.html": "/index.html",
+    "main.7d8602cb.css.map": "/static/css/main.7d8602cb.css.map",
+    "main.61d10d6f.js.map": "/static/js/main.61d10d6f.js.map",
+    "787.b670d720.chunk.js.map": "/static/js/787.b670d720.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d8602cb.css",
+    "static/js/main.61d10d6f.js"
+  ]
+}
